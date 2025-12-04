@@ -1,0 +1,11 @@
+Integrations¶
+
+Daniel Greenfeld’s Review of Requests
+
+Issac Kelly’s ‘Consuming Web APIs’ talk
+
+Blog post about Requests via Yum
+
+Russian blog post introducing Requests
+
+Sending JSON in Requests
