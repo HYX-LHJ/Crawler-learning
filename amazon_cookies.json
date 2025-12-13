@@ -1,0 +1,151 @@
+[
+  {
+    "domain": "www.amazon.com",
+    "expiry": 1765707562,
+    "httpOnly": false,
+    "name": "rxc",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "ANmlEaUVjQ9z3/HemFc"
+  },
+  {
+    "domain": ".amazon.com",
+    "expiry": 1797150250,
+    "httpOnly": false,
+    "name": "ubid-main",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "133-9895082-2029441"
+  },
+  {
+    "domain": ".amazon.com",
+    "expiry": 1800174742,
+    "httpOnly": false,
+    "name": "session-id-time",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "2082787201l"
+  },
+  {
+    "domain": ".www.amazon.com",
+    "expiry": 1766221290,
+    "httpOnly": false,
+    "name": "rx",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "AQACujmangDFIVDYZCrUXQ0vwag=@AWsrPWk="
+  },
+  {
+    "domain": ".amazon.com",
+    "expiry": 1797150250,
+    "httpOnly": true,
+    "name": "sst-main",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "Sst1|PQFIrhIf1rwlAVNZAXblihySCvX4R7gjUv38vraJ2iGhgAwOXDVrztmV3mPHy1SHWMH94ZzfYE0W9JiVjP3VyCcYXt28Vjs4RCgwBnxBBXos_pj-6sj9JWSdsYTJ2ZvSVPuzwqKwZckUnSuVB7ch79fD9EnaBmCpGzFRQlNZa3PcDsMI-wNiYG4KDqbst8OAMlde71cDH3CMEnCl1co3r-EwQx_xSSCxb4XDw_rgX6fdv954mNtaZtK3WwykL8SyxVWzT-Q6sba-g8_hAnfepwxNV0gd0SDec_1eJ9f2B6AtI-tlzA7M-fMjy9GkWingBuWp"
+  },
+  {
+    "domain": ".amazon.com",
+    "expiry": 1797156977,
+    "httpOnly": false,
+    "name": "session-token",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "NQlhIREWh4Wp1UXLoj2D40E7OFjIEczM1t3yShkZTHAmII/MDA+JSx1rEF38CRLE2doIRTjcqe3rwyKaM8FXSTuQYJEY0nk2K1OWLEosS7Z3fm4dpYWkyu+voBBQoH2Q6ZJVURPvmyELqXnPmyy/HzH9KgNPO3HFiHny7RnOr6hrmgtbNS/w7/XkPlAB2WJJtfatccqjcK+orvMWISjBBTqeW2CoxiIIuy7E/Eq+hcGgx0n4Q8BsattzVAhkoklnn+sqtn9Oa3/wP8vON3jSm4qU6nQ/4RHcKcKB09C2c+acCCshRdNFT1/4wvcvnfB02mHtPSSs4Y9NJbHI8mEC8yR7RG+eZtOoIpvhIBlivASbP5fiEQsSaAidfl09pNKJ"
+  },
+  {
+    "domain": ".amazon.com",
+    "expiry": 1800174250,
+    "httpOnly": true,
+    "name": "sso-state-main",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "Xdsso|ZQEnBgNNgmeOCT8icbzdqJXgF4zhnf8seAfBpE1LTaUrHLIJt7CLsBZe5S4B6zMyYqYqIBacEGas8w9CR0YsevUliC0Mrumd5VmSkMIRYa9ZS1VF"
+  },
+  {
+    "domain": ".amazon.com",
+    "expiry": 1797150250,
+    "httpOnly": true,
+    "name": "sess-at-main",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "uk0iy+BUc6BrRcQJ02HFsIFqA7GOBj4gZ09qTDZgoss="
+  },
+  {
+    "domain": ".amazon.com",
+    "expiry": 1797150250,
+    "httpOnly": false,
+    "name": "i18n-prefs",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "USD"
+  },
+  {
+    "domain": ".amazon.com",
+    "expiry": 1797156977,
+    "httpOnly": false,
+    "name": "x-main",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "\"FDKJKQHr6OfayM8zLkUrx@wCkyqLRfdmIiK7bhQkVEVlbXnpcg7hExi5W?L3w53a\""
+  },
+  {
+    "domain": ".amazon.com",
+    "expiry": 1800174742,
+    "httpOnly": false,
+    "name": "lc-main",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "en_US"
+  },
+  {
+    "domain": "www.amazon.com",
+    "expiry": 1795861160,
+    "httpOnly": false,
+    "name": "csm-hit",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "tb:88S89C4SSKB7HCZHG5VM+s-88S89C4SSKB7HCZHG5VM|1765621160127&t:1765621160127&adb:adblk_no"
+  },
+  {
+    "domain": ".amazon.com",
+    "httpOnly": false,
+    "name": "skin",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "noskin"
+  },
+  {
+    "domain": ".amazon.com",
+    "expiry": 1797150250,
+    "httpOnly": true,
+    "name": "at-main",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "Atza|gQAN7q91AwEBAnreuwh499ll_VW92iHKgSdhMfnnlLKLWq8MHquHiho_avRhK1hz9qBnhMlV74aBEvV14JV5uclp2s_kAN26FCgndMImIs84JlcAcL7WyIMU1LVipXU5qB3K5l38i8M8_zpa-4utv1C4iZXDKtSX4W1p_JIKMwyMdfCbh6842HmtlIFEgH8lvo18zNR9N9yNqcHya1SUGYkMPHCSerpaH6xQMxaKLBCMyIAeR93oIQ-Orl3ijNox3CHqmneM974BaPMPQHYcIDqbLVGJYu3Y4IIpmX1P-XrciNxG8bFwJcEQGXKVueUPa-bhIpmEiMLGCuK7p3O8LBs10s8MYBYZmIvSjbg"
+  },
+  {
+    "domain": ".amazon.com",
+    "expiry": 1800174742,
+    "httpOnly": false,
+    "name": "session-id",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "134-0147690-2890626"
+  }
+]
